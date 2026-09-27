@@ -1,0 +1,17 @@
+D:\JetBrains\Rider\RiderProjects\Lab9Rider\Lab9Rider\bin\Debug\Lab9Rider.exe.config
+D:\JetBrains\Rider\RiderProjects\Lab9Rider\Lab9Rider\bin\Debug\Lab9Rider.exe
+D:\JetBrains\Rider\RiderProjects\Lab9Rider\Lab9Rider\bin\Debug\Lab9Rider.pdb
+D:\JetBrains\Rider\RiderProjects\Lab9Rider\Lab9Rider\obj\Debug\Lab9Rider.csproj.AssemblyReference.cache
+D:\JetBrains\Rider\RiderProjects\Lab9Rider\Lab9Rider\obj\Debug\Styles\AppStyles.baml
+D:\JetBrains\Rider\RiderProjects\Lab9Rider\Lab9Rider\obj\Debug\MainWindow.g.cs
+D:\JetBrains\Rider\RiderProjects\Lab9Rider\Lab9Rider\obj\Debug\App.g.cs
+D:\JetBrains\Rider\RiderProjects\Lab9Rider\Lab9Rider\obj\Debug\Lab9Rider_MarkupCompile.cache
+D:\JetBrains\Rider\RiderProjects\Lab9Rider\Lab9Rider\obj\Debug\Lab9Rider_MarkupCompile.lref
+D:\JetBrains\Rider\RiderProjects\Lab9Rider\Lab9Rider\obj\Debug\App.baml
+D:\JetBrains\Rider\RiderProjects\Lab9Rider\Lab9Rider\obj\Debug\MainWindow.baml
+D:\JetBrains\Rider\RiderProjects\Lab9Rider\Lab9Rider\obj\Debug\Lab9Rider.g.resources
+D:\JetBrains\Rider\RiderProjects\Lab9Rider\Lab9Rider\obj\Debug\Lab9Rider.Properties.Resources.resources
+D:\JetBrains\Rider\RiderProjects\Lab9Rider\Lab9Rider\obj\Debug\Lab9Rider.csproj.GenerateResource.cache
+D:\JetBrains\Rider\RiderProjects\Lab9Rider\Lab9Rider\obj\Debug\Lab9Rider.csproj.CoreCompileInputs.cache
+D:\JetBrains\Rider\RiderProjects\Lab9Rider\Lab9Rider\obj\Debug\Lab9Rider.exe
+D:\JetBrains\Rider\RiderProjects\Lab9Rider\Lab9Rider\obj\Debug\Lab9Rider.pdb

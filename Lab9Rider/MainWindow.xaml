@@ -1,0 +1,25 @@
+<Window x:Class="Lab9Rider.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab9Rider"
+        mc:Ignorable="d"
+        Title="Lab9" Height="350" Width="525">
+    <Grid>
+        <StackPanel Margin="20">
+
+            <TextBlock Text="Единый стиль приложения"
+                       Style="{StaticResource HeaderTextStyle}"/>
+
+            <TextBlock Text="Эта кнопка получает стиль автоматически (Style без x:Key для TargetType=Button):"
+                       TextWrapping="Wrap"/>
+            <Button Content="Обычная кнопка"/>
+
+            <TextBlock Text="А эта кнопка получает дополнительный стиль, заданный из кода C#:"
+                       TextWrapping="Wrap"/>
+            <Button x:Name="CodeStyledButton" Content="Кнопка со стилем из C#"/>
+
+        </StackPanel>
+    </Grid>
+</Window>
